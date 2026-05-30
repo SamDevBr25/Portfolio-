@@ -1,0 +1,14 @@
+.next
+node_modules
+out
+dist
+.tools
+.env
+.env.local
+.env.*.local
+*.log
+.next-dev*.log
+*.tsbuildinfo
+pnpm.cjs
+pnpm-workspace.yaml
+public/cv/*.pdf

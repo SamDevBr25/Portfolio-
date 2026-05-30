@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SP Digital monogram">
+  <rect width="64" height="64" rx="14" fill="#11100f"/>
+  <path d="M16 41.8c4.4 3.6 16.1 4.6 16.1-2.8 0-9.7-16.2-5.7-16.2-17 0-8.5 11.4-11.4 18.5-6.2" fill="none" stroke="#f7f1e8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M39 46V17h9.4c7.8 0 11.6 4 11.6 10.2 0 6.4-4.2 10.4-11.7 10.4H43" fill="none" stroke="#c7a96a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

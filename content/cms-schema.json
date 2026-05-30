@@ -1,0 +1,22 @@
+{
+  "collections": {
+    "projects": {
+      "fields": ["title", "slug", "summary", "challenge", "response", "outcome", "stack", "services", "year", "image", "seo"]
+    },
+    "services": {
+      "fields": ["title", "eyebrow", "description", "outcomes", "seo"]
+    },
+    "testimonials": {
+      "fields": ["quote", "name", "role", "company", "relationship", "approved"]
+    },
+    "blog": {
+      "fields": ["title", "slug", "excerpt", "body", "author", "publishedAt", "tags", "seo"]
+    },
+    "caseStudies": {
+      "fields": ["title", "slug", "client", "problem", "process", "results", "gallery", "seo"]
+    },
+    "translations": {
+      "fields": ["locale", "namespace", "entries"]
+    }
+  }
+}
